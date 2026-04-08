@@ -150,8 +150,3 @@ npm test -- --runInBand
 - 存储/检索：`EMATA_STORAGE_BACKEND`、`EMATA_UPLOAD_BASE_DIR`、`EMATA_MILVUS_URI`
 - 飞书：`EMATA_FEISHU_APP_ID`、`EMATA_FEISHU_APP_SECRET`
 
----
-
-## License
-
-当前仓库未附带开源许可证。
